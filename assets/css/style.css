@@ -1,0 +1,48 @@
+.bizz-header-btn-orange {
+    background-color: #FE8A02;
+}
+
+.bizz-header-btn-blue {
+    background-color: #195877;
+}
+
+.bizz-banner-font-blue{
+    color: #1b3d57;
+}
+
+.bizz-banner-btn-blue {
+    background-color: #2598D0;
+}
+
+.bizz-banner-font-orange {
+    color: #D78220;
+}
+
+.bizz-bg-banner{
+    background: linear-gradient(90deg, rgba(47, 85, 112, 1), rgba(47, 85, 112, 0.3)), url(../images/banner.jpg);
+    background-size: cover;
+}
+
+.bizz-height-43 {
+    height: 43rem;
+}
+
+.bizz-img-p-m {
+    margin-top: -17rem;
+    margin-left: -38rem;
+}
+
+.bizz-icon-color {
+    color: #57B0DA;
+}
+
+body {
+    background-color: #F4FAFD;
+}
+.bizz-text-color {
+    color: #1B3D57;
+}
+
+.bizz-btn-dark-blue {
+    background-color: #2F4555;
+}
