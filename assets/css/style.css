@@ -39,10 +39,19 @@
 body {
     background-color: #F4FAFD;
 }
+
 .bizz-text-color {
     color: #1B3D57;
 }
 
 .bizz-btn-dark-blue {
     background-color: #2F4555;
+}
+
+.bizz-bg-footer{
+    background-image: linear-gradient(180deg, #049EE7, #2E4758);
+}
+
+.bizz-w-75{
+    width: 75%;
 }
